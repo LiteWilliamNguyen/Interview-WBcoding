@@ -20,3 +20,5 @@ del dict ;        # delete entire dictionary
 
 print "dict['Age']: ", dict['Age']
 print "dict['School']: ", dict['School']
+
+
